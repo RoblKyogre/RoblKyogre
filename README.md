@@ -5,6 +5,4 @@ https://roblkyogre.craftingcomrades.net
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoblKyogre&count_private=true&show_icons=true&theme=transparent)
 
-Support me:
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7KY78Y) [![img alt="Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/RoblKyogre/donate)
